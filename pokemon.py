@@ -74,7 +74,7 @@ initial_pokemons = [
     {
         "name": "중동부자",
         "types": ["불꽃"],
-        "image_url": r"C:\Users\happy\OneDrive\바탕 화면\python_test\streamlit\images\KakaoTalk_20240614_204835974.jpg"
+        "image_url": https://github.com/Hasonle/Practice_streamlit/blob/main/images/KakaoTalk_20240614_204835974.jpg
     }
 ]
 
