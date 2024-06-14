@@ -79,12 +79,11 @@ initial_pokemons = [
     {
         "name": "엄준식",
         "types": ["노말"],
-        "image_url": "./images/엄준식"},
+        "image_url": "./images/um.jpg"},
     {
         "name": "김춘배",
         "types": ["땅"],
-        "image_url": "./images/자전거"
-    }
+        "image_url": "./images/jung.jpg"}
 ]
 
 example_pokemon = {
