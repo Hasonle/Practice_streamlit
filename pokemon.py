@@ -75,6 +75,15 @@ initial_pokemons = [
         "name": "중동부자",
         "types": ["불꽃"],
         "image_url": "./images/KakaoTalk_20240614_204835974.jpg"
+    },
+    {
+        "name": "엄준식",
+        "types": ["노말"],
+        "image_url": "./images/엄준식"},
+    {
+        "name": "김춘배",
+        "types": ["땅"],
+        "image_url": "./images/자전거"
     }
 ]
 
