@@ -153,4 +153,4 @@ for i in range(0,len(st.session_state.pokemons),3):
                 if delete_button:
                     print('delete button clicked!')
                     del st.session_state.pokemons[i+j]
-                    # st.rerun()
+                    st.rerun()
