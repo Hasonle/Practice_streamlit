@@ -72,9 +72,9 @@ initial_pokemons = [
         "image_url": "https://storage.googleapis.com/firstpenguine-coding-school/pokemons/acebun.webp"
     },
     {
-        "name": "중동부자",
-        "types": ["불꽃"],
-        "image_url": "./images/KakaoTalk_20240614_204835974.jpg"
+        "name": "00년생 김지영",
+        "types": ["얼음"],
+        "image_url": "./images/jiyoung.jpg"
     },
     {
         "name": "엄준식",
